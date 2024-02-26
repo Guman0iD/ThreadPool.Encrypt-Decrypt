@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PPad3fu3Kz5RFZzvlpMtxZVDgGRbbgPowBjrM22JjKEdsreGJyq8QV+e2rAegl4fkUEzfJ1I+8sg+UioXL4GKQ==",
+  "success": true,
+  "projectFilePath": "D:\\StepIT\\SystemProg\\ThreadPool.Encrypt-Decrypt\\ThreadPool.Encrypt-Decrypt\\ThreadPool.Encrypt-Decrypt.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alask\\.nuget\\packages\\extended.wpf.toolkit\\4.6.0\\extended.wpf.toolkit.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
