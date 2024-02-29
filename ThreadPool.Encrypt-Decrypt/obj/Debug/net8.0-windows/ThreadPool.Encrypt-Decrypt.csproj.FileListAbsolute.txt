@@ -36,6 +36,4 @@ D:\StepIT\SystemProg\ThreadPool.Encrypt-Decrypt\ThreadPool.Encrypt-Decrypt\bin\D
 D:\StepIT\SystemProg\ThreadPool.Encrypt-Decrypt\ThreadPool.Encrypt-Decrypt\bin\Debug\net8.0-windows\zh-Hans\Xceed.Wpf.AvalonDock.NET5.resources.dll
 D:\StepIT\SystemProg\ThreadPool.Encrypt-Decrypt\ThreadPool.Encrypt-Decrypt\obj\Debug\net8.0-windows\ThreadPool.Encrypt-Decrypt.csproj.AssemblyReference.cache
 D:\StepIT\SystemProg\ThreadPool.Encrypt-Decrypt\ThreadPool.Encrypt-Decrypt\obj\Debug\net8.0-windows\ThreadPool.Encrypt-Decrypt.csproj.CopyComplete
-D:\StepIT\SystemProg\ThreadPool.Encrypt-Decrypt\ThreadPool.Encrypt-Decrypt\obj\Debug\net8.0-windows\FIleContent.g.cs
-D:\StepIT\SystemProg\ThreadPool.Encrypt-Decrypt\ThreadPool.Encrypt-Decrypt\obj\Debug\net8.0-windows\ThreadPool.Encrypt-Decrypt_MarkupCompile.lref
-D:\StepIT\SystemProg\ThreadPool.Encrypt-Decrypt\ThreadPool.Encrypt-Decrypt\obj\Debug\net8.0-windows\FIleContent.baml
+D:\StepIT\SystemProg\ThreadPool.Encrypt-Decrypt\ThreadPool.Encrypt-Decrypt\obj\Debug\net8.0-windows\ThreadPool.Encrypt-Decrypt.sourcelink.json

@@ -43,6 +43,12 @@
             <TextBlock
                 x:Name="NotificationBox"
                 Foreground="Red" />
+            
+            <ProgressBar
+                x:Name="ProgressBar" 
+                Height="15" 
+                Background="Gray"
+               />
         </StackPanel>
 
     </Grid>
