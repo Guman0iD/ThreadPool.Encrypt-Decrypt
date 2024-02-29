@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ThreadPool.Encrypt-Decrypt")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+89566ddd24b7f9ddba6571e51e219c9014f256df")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f1ce79020bb2f36ebe3afeb1d30331687f612cf2")]
 [assembly: System.Reflection.AssemblyProductAttribute("ThreadPool.Encrypt-Decrypt")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ThreadPool.Encrypt-Decrypt")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
